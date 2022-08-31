@@ -1,6 +1,6 @@
-# Hi, I'm Anuj! 👋
+<h2 align="center"> Hi, I'm Anuj! 👋 </h2>
 
-I'm a game enthusiast. Having played a lot of games since my childhood, it itched me to know about the behind the scenes of a game, and so I entered the industry of game development.
+<p align="center">I'm a game enthusiast. Having played a lot of games since my childhood, it itched me to know about the behind the scenes of a game, and so I entered the industry of game development. </p>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-punekar/)
