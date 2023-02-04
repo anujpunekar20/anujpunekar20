@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Anuj! 👋 </h2>
 
-<p align="center">I'm a game enthusiast. Having played a lot of games since my childhood, it itched me to know about the behind the scenes of a game, and so I entered the industry of game development. </p>
+<p align="center">Currently, I'm working on some things, but this will be updated soon :) </p>
 
 <h2 align="center"> 🔗 Links </h2>
 
