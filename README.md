@@ -18,7 +18,7 @@
 
 - :seedling: Exploring different development fields.
 
-- :zap: In my free time, I play videos games and sometimes watch anime.
+- :zap: In my free time, I play video games and sometimes watch anime.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnujPunekar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-punekar/)
 
