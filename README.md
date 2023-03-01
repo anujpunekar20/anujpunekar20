@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h96pDOh6nubnUCVbvE/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/h96pDOh6nubnUCVbvE/giphy.gif" width="450"/>
   
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anuj-punekar/">
@@ -20,7 +20,7 @@
 
 - :zap: In my free time, I play videos games and sometimes watch anime.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-punekar/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnujPunekar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-punekar/)
 
 ---
 
@@ -30,5 +30,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats : 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ppman216&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppman216&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
