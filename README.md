@@ -1,8 +1,34 @@
-<h2 align="center"> Hi, I'm Anuj! 👋 </h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/h96pDOh6nubnUCVbvE/giphy.gif" width="250"/>
+  
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anuj-punekar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+    <img src="https://komarev.com/ghpvc/?username=ppman216&style=flat-square&color=blue" align="center"/>
+    <h1>
+    Hi, I'm Anuj!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1> 
+</div>
 
-<p align="center">Currently, I'm working on some things, but this will be updated soon :) </p>
+:technologist: About Me : I am a backend and game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I'm a sophomore at IIIT Bhopal.
 
-<h2 align="center"> 🔗 Links </h2>
+- :seedling: Exploring different development fields.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-punekar/)
-<a href="https://ppman216.itch.io/"><img src="https://user-images.githubusercontent.com/93873612/186203362-56fbe4f3-f90a-4237-af8d-5be5c64a98f7.png" width="45px"></a>
+- :zap: In my free time, I play videos games and sometimes watch anime.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-punekar/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools : 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
