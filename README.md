@@ -13,7 +13,7 @@
     </h1> 
 </div>
 
-:technologist: About Me : I am a backend and game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+:technologist: About Me : I am a backend and game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I'm a sophomore at IIIT Bhopal.
 
 - :seedling: Exploring different development fields.
