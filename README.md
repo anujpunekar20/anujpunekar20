@@ -39,4 +39,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ppman216&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppman216&theme=dark&background=000000&env=PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppman216&theme=dark&layout=compact&background=000000&env=PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppman216&show_icons=true&theme=radical)
